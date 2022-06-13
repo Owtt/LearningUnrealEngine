@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-CombatPrototype-Win64-DebugGame.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:\Unreal\CombatPrototype\Intermediate\Build\Win64\CombatPrototypeEditor\DebugGame\Engine\SharedPCH.Engine.NonOptimized.ShadowErrors.h.obj"
+"E:\Unreal\CombatPrototype\Intermediate\Build\Win64\UnrealEditor\DebugGame\CombatPrototype\CombatPrototype.cpp.obj"
+"E:\Unreal\CombatPrototype\Intermediate\Build\Win64\UnrealEditor\DebugGame\CombatPrototype\CombatPrototypeGameModeBase.cpp.obj"
+"E:\Unreal\CombatPrototype\Intermediate\Build\Win64\UnrealEditor\DebugGame\CombatPrototype\CombatPrototype.init.gen.cpp.obj"
+"E:\Unreal\CombatPrototype\Intermediate\Build\Win64\UnrealEditor\DebugGame\CombatPrototype\CombatPrototypeGameModeBase.gen.cpp.obj"
+"E:\Unreal\CombatPrototype\Intermediate\Build\Win64\UnrealEditor\DebugGame\CombatPrototype\Default.rc2.res"
+/OUT:"E:\Unreal\CombatPrototype\Intermediate\Build\Win64\UnrealEditor\DebugGame\CombatPrototype\UnrealEditor-CombatPrototype-Win64-DebugGame.lib"

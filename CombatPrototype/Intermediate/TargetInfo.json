@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "CombatPrototype",
+			"Path": "E:\\Unreal\\LearningUnrealEngine\\CombatPrototype\\Source\\CombatPrototype.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "CombatPrototypeEditor",
+			"Path": "E:\\Unreal\\LearningUnrealEngine\\CombatPrototype\\Source\\CombatPrototypeEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

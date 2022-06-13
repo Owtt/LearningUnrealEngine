@@ -1,0 +1,25 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "e:\\unreal\\learningunrealengine\\combatprototype\\intermediate\\build\\win64\\unrealeditor\\inc\\combatprototype\\meleeweapon.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\unreal\\learningunrealengine\\combatprototype\\intermediate\\build\\win64\\combatprototypeeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "e:\\unreal\\learningunrealengine\\combatprototype\\intermediate\\build\\win64\\unrealeditor\\development\\combatprototype\\definitions.combatprototype.h",
+            "e:\\unreal\\learningunrealengine\\combatprototype\\source\\combatprototype\\meleeweapon.h",
+            "e:\\unreal\\learningunrealengine\\combatprototype\\source\\combatprototype\\weapontriggerbox.h",
+            "e:\\unreal\\learningunrealengine\\combatprototype\\source\\combatprototype\\damageablepawn.h",
+            "e:\\unreal\\learningunrealengine\\combatprototype\\intermediate\\build\\win64\\unrealeditor\\inc\\combatprototype\\damageablepawn.generated.h",
+            "e:\\installs\\games\\epic\\ue_5.02\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\engine\\triggerbox.h",
+            "e:\\installs\\games\\epic\\ue_5.02\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\engine\\triggerbase.h",
+            "e:\\installs\\games\\epic\\ue_5.02\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\triggerbase.generated.h",
+            "e:\\installs\\games\\epic\\ue_5.02\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\triggerbox.generated.h",
+            "e:\\unreal\\learningunrealengine\\combatprototype\\intermediate\\build\\win64\\unrealeditor\\inc\\combatprototype\\weapontriggerbox.generated.h",
+            "e:\\unreal\\learningunrealengine\\combatprototype\\source\\combatprototype\\weapon.h",
+            "e:\\unreal\\learningunrealengine\\combatprototype\\intermediate\\build\\win64\\unrealeditor\\inc\\combatprototype\\weapon.generated.h",
+            "e:\\unreal\\learningunrealengine\\combatprototype\\intermediate\\build\\win64\\unrealeditor\\inc\\combatprototype\\meleeweapon.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

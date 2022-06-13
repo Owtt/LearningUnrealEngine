@@ -1,0 +1,15 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "e:\\unreal\\combatprototype\\intermediate\\build\\win64\\unrealeditor\\inc\\combatprototype\\damageablepawn.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\unreal\\combatprototype\\intermediate\\build\\win64\\combatprototypeeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "e:\\unreal\\combatprototype\\intermediate\\build\\win64\\unrealeditor\\development\\combatprototype\\definitions.combatprototype.h",
+            "e:\\unreal\\combatprototype\\source\\combatprototype\\damageablepawn.h",
+            "e:\\unreal\\combatprototype\\intermediate\\build\\win64\\unrealeditor\\inc\\combatprototype\\damageablepawn.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "e:\\unreal\\learningunrealengine\\combatprototype\\source\\combatprototype\\combatprototypegamemodebase.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\unreal\\learningunrealengine\\combatprototype\\intermediate\\build\\win64\\combatprototypeeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "e:\\unreal\\learningunrealengine\\combatprototype\\intermediate\\build\\win64\\unrealeditor\\development\\combatprototype\\definitions.combatprototype.h",
+            "e:\\unreal\\learningunrealengine\\combatprototype\\source\\combatprototype\\combatprototypegamemodebase.h",
+            "e:\\installs\\games\\epic\\ue_5.02\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "e:\\installs\\games\\epic\\ue_5.02\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "e:\\installs\\games\\epic\\ue_5.02\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\serverstatreplicator.generated.h",
+            "e:\\installs\\games\\epic\\ue_5.02\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\gamemodebase.generated.h",
+            "e:\\unreal\\learningunrealengine\\combatprototype\\intermediate\\build\\win64\\unrealeditor\\inc\\combatprototype\\combatprototypegamemodebase.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

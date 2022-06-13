@@ -1,0 +1,34 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "e:\\unreal\\learningunrealengine\\combatprototype\\source\\combatprototype\\myplayer.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\unreal\\learningunrealengine\\combatprototype\\intermediate\\build\\win64\\combatprototypeeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "e:\\unreal\\learningunrealengine\\combatprototype\\intermediate\\build\\win64\\unrealeditor\\development\\combatprototype\\definitions.combatprototype.h",
+            "e:\\unreal\\learningunrealengine\\combatprototype\\source\\combatprototype\\myplayer.h",
+            "e:\\unreal\\learningunrealengine\\combatprototype\\source\\combatprototype\\damageablepawn.h",
+            "e:\\unreal\\learningunrealengine\\combatprototype\\intermediate\\build\\win64\\unrealeditor\\inc\\combatprototype\\damageablepawn.generated.h",
+            "e:\\unreal\\learningunrealengine\\combatprototype\\intermediate\\build\\win64\\unrealeditor\\inc\\combatprototype\\myplayer.generated.h",
+            "e:\\installs\\games\\epic\\ue_5.02\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\floatingpawnmovement.h",
+            "e:\\installs\\games\\epic\\ue_5.02\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\pawnmovementcomponent.h",
+            "e:\\installs\\games\\epic\\ue_5.02\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\navmovementcomponent.h",
+            "e:\\installs\\games\\epic\\ue_5.02\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\ai\\navigation\\pathfollowingagentinterface.h",
+            "e:\\installs\\games\\epic\\ue_5.02\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\pathfollowingagentinterface.generated.h",
+            "e:\\installs\\games\\epic\\ue_5.02\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\movementcomponent.h",
+            "e:\\installs\\games\\epic\\ue_5.02\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\movementcomponent.generated.h",
+            "e:\\installs\\games\\epic\\ue_5.02\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\navmovementcomponent.generated.h",
+            "e:\\installs\\games\\epic\\ue_5.02\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\pawnmovementcomponent.generated.h",
+            "e:\\installs\\games\\epic\\ue_5.02\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\floatingpawnmovement.generated.h",
+            "e:\\installs\\games\\epic\\ue_5.02\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\camera\\cameracomponent.h",
+            "e:\\installs\\games\\epic\\ue_5.02\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\cameracomponent.generated.h",
+            "e:\\installs\\games\\epic\\ue_5.02\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\springarmcomponent.h",
+            "e:\\installs\\games\\epic\\ue_5.02\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\springarmcomponent.generated.h",
+            "e:\\unreal\\learningunrealengine\\combatprototype\\source\\combatprototype\\actorhealthcomponent.h",
+            "e:\\unreal\\learningunrealengine\\combatprototype\\intermediate\\build\\win64\\unrealeditor\\inc\\combatprototype\\actorhealthcomponent.generated.h",
+            "c:\\program files (x86)\\microsoft visual studio\\2019\\community\\vc\\tools\\msvc\\14.29.30133\\include\\string"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

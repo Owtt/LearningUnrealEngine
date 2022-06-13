@@ -1,0 +1,13 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "e:\\unreal\\combatprototype\\intermediate\\build\\win64\\unrealeditor\\inc\\combatprototype\\combatprototype.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\unreal\\combatprototype\\intermediate\\build\\win64\\combatprototypeeditor\\debuggame\\engine\\sharedpch.engine.nonoptimized.shadowerrors.h.pch",
+        "Includes": [
+            "e:\\unreal\\combatprototype\\intermediate\\build\\win64\\unrealeditor\\debuggame\\combatprototype\\definitions.combatprototype.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
